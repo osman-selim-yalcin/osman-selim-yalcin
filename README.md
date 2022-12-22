@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osman-selim-yalcin&show_icons=true&locale=en" alt="osman-selim-yalcin" /></p>
 
+<p align="center">### 👨‍💻 My 42 status</p>
+<p align="center"><img src="https://badge42.vercel.app/api/v2/cl977v9nc00300gkz9cm5re72/stats?cursusId=21&coalitionId=227"/></p>
+
