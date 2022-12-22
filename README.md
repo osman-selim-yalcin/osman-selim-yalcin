@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **AI and Full-Stack dev.**
 
+<div align="center">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/osman-yalçın-488078247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osman yalçın" height="30" width="40" /></a>
@@ -30,6 +32,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osman-selim-yalcin&show_icons=true&locale=en" alt="osman-selim-yalcin" /></p>
 
-<p align="center">### 👨‍💻 My 42 status</p>
-<p align="center"><img src="https://badge42.vercel.app/api/v2/cl977v9nc00300gkz9cm5re72/stats?cursusId=21&coalitionId=227"/></p>
-
+</div>
