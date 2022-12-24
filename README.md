@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A Passionate Learner</h3>
 
-- 🌱 I’m currently learning **AI and Full-Stack dev.**
+- 🌱 I’m currently learning **AI and Full-Stack.**
 
 <div align="center">
 
